@@ -1,4 +1,4 @@
-# Product CRUD Application using PHP Laravel 
+# Product CRUD(Create, Read, Update and Delete) Application using PHP Laravel 
 
 A complete Product Management System built with Laravel 12, MySQL, and Bootstrap 5 UI.
 
