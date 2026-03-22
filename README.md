@@ -22,7 +22,7 @@ A complete Product Management System built with Laravel 12, MySQL, and Bootstrap
 - **Frontend:** Bootstrap 5, Font Awesome Icons
 - **Blade Templates:** Laravel's templating engine
 
-## 📁 Project Structure
+## 📁 Project Structures
 
 ```
 CRUD-Applicatin in laravel/
