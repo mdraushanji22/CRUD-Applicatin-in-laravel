@@ -69,7 +69,7 @@ Make sure you have the following installed:
 2. Start **Apache** (if you want to use phpMyAdmin)
 3. Start **MySQL** service
 
-#### 2. Database Setup
+#### 2. Databases Setup
 
 The database `crud_app` has already been created. If you need to recreate it:
 
