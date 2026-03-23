@@ -59,7 +59,7 @@
                 <p>Home</p>
                 <p>About</p>
                 <p>Contact</p>
-                © 2026 Product CRUD Application - Laravel & Bootstrap
+                <p> © 2026 Product CRUD Application - Laravel & Bootstrap</p>
             </div>
         </div>
     </footer>
